@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/posterReact/static/js/main.4d171ed1.chunk.js",
+    "main.js.map": "/posterReact/static/js/main.4d171ed1.chunk.js.map",
+    "runtime-main.js": "/posterReact/static/js/runtime-main.f3525944.js",
+    "runtime-main.js.map": "/posterReact/static/js/runtime-main.f3525944.js.map",
+    "static/css/2.de424728.chunk.css": "/posterReact/static/css/2.de424728.chunk.css",
+    "static/js/2.49eed82f.chunk.js": "/posterReact/static/js/2.49eed82f.chunk.js",
+    "static/js/2.49eed82f.chunk.js.map": "/posterReact/static/js/2.49eed82f.chunk.js.map",
+    "index.html": "/posterReact/index.html",
+    "precache-manifest.dba5ec14d94d1048de2e3fbe8a6032c7.js": "/posterReact/precache-manifest.dba5ec14d94d1048de2e3fbe8a6032c7.js",
+    "service-worker.js": "/posterReact/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/posterReact/static/css/2.de424728.chunk.css.map",
+    "static/js/2.49eed82f.chunk.js.LICENSE.txt": "/posterReact/static/js/2.49eed82f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3525944.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.49eed82f.chunk.js",
+    "static/js/main.4d171ed1.chunk.js"
+  ]
+}
